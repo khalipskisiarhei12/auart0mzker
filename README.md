@@ -1,16 +1,21 @@
-# Elijah Maiga Barasa
-## AI Researcher & Technologist
+# Siarhei Khalipski
+## Full Stack Solution Architect / Senior Architect
 
-I am a **Research Assistant** at the **Makerere AI Health Lab** (Makerere University, Uganda). My work focuses on leveraging **Artificial Intelligence** and **Computer Vision** to provide diagnostic support in low-resource health settings.
+Expert in complex system design, implementation, deployment, and maintenance with over 10 years of experience. Specializing in **.NET** and **Angular** ecosystems.
 
-### 🔬 Research & Expertise
-- **Computer Vision & AI:** Developing models for medical imaging and diagnostic support.
-- **Digital Health Innovation:** Building accessible tools for early disease detection.
-- **Public Health Intelligence:** Strengthening health systems through context-aware digital solutions.
-- **Notable Project:** The **Ocular Project**, advancing AI-powered diagnostic innovations for eye health.
+### 🛠 Technical Skills
+- **Frameworks:** .NET Core, ASP.NET MVC, Angular, AngularJS, NodeJS, PWA.
+- **Languages:** C#, JavaScript, TypeScript.
+- **Databases & Tools:** MS-SQL Server, TFS, Visual Studio, Azure.
+- **Methodologies:** TDD, Microservices, Server-Side Rendering (SSR).
 
-### 🌍 Philosophy
-I am dedicated to **Responsible AI** and **South-South collaboration**, focusing on building \"context-aware\" solutions that address local realities and healthcare equity in the Global South.
+### 🚀 Notable Experience
+- **Betclic Group:** Led the design and implementation of new Angular experiences with SSR, significantly improving performance metrics (FCP, FMP, TTI).
+- **Online Casino (BETCLIC.COM):** Full-stack development for the French market using .NET 4.5 and AngularJS.
+
+### 🎓 Education
+- **Master of Computer Science** - Belarusian State University of Informatics and Radioelectronics (2007).
+- **Bachelor of Computer Science** - Belarusian State University of Informatics and Radioelectronics (2006).
 
 ---
-📫 [LinkedIn](https://www.linkedin.com/in/elijah-maiga-barasa-5127862b8/)
+📫 [LinkedIn](https://www.linkedin.com/in/khalipskisiarhei/)
