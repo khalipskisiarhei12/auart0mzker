@@ -1,16 +1,16 @@
-## Hi there 👋
+# Elijah Maiga Barasa
+## AI Researcher & Technologist
 
-<!--
-**auart0mzker/auart0mzker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Research Assistant** at the **Makerere AI Health Lab** (Makerere University, Uganda). My work focuses on leveraging **Artificial Intelligence** and **Computer Vision** to provide diagnostic support in low-resource health settings.
 
-Here are some ideas to get you started:
+### 🔬 Research & Expertise
+- **Computer Vision & AI:** Developing models for medical imaging and diagnostic support.
+- **Digital Health Innovation:** Building accessible tools for early disease detection.
+- **Public Health Intelligence:** Strengthening health systems through context-aware digital solutions.
+- **Notable Project:** The **Ocular Project**, advancing AI-powered diagnostic innovations for eye health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Philosophy
+I am dedicated to **Responsible AI** and **South-South collaboration**, focusing on building \"context-aware\" solutions that address local realities and healthcare equity in the Global South.
+
+---
+📫 [LinkedIn](https://www.linkedin.com/in/elijah-maiga-barasa-5127862b8/)
